@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\Lenovo\\German Traffic Signs Detector/models/model3/saved/lenet.ckpt-500"
+all_model_checkpoint_paths: "C:\\Users\\Lenovo\\German Traffic Signs Detector/models/model3/saved/lenet.ckpt-101"
+all_model_checkpoint_paths: "C:\\Users\\Lenovo\\German Traffic Signs Detector/models/model3/saved/lenet.ckpt-201"
+all_model_checkpoint_paths: "C:\\Users\\Lenovo\\German Traffic Signs Detector/models/model3/saved/lenet.ckpt-301"
+all_model_checkpoint_paths: "C:\\Users\\Lenovo\\German Traffic Signs Detector/models/model3/saved/lenet.ckpt-401"
+all_model_checkpoint_paths: "C:\\Users\\Lenovo\\German Traffic Signs Detector/models/model3/saved/lenet.ckpt-500"
