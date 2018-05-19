@@ -7,7 +7,7 @@ Details of this challengue can be found [here](https://github.com/KiwiCampusChal
 
 A guide step by step will be found in **app.ipynb,  reports/model1.ipynb , reports/model2.ipynb , reports/model3.ipynb**
 
-**To download the data automatically and split the data  in images/train and images/test use the command
+**To download the data automatically and split the data  in images/train and images/test use the command**
 ```
 python app.py download
 ```
