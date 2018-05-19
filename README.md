@@ -30,5 +30,4 @@ python app.py test -m [choose the model] -d [choose the folder]
 ```
 Example  images/user  (only images to infer)
 
-# Author: Jonathan Durand
-# jonathan.drnd@gmail.com
+## Author: Jonathan Durand
